@@ -10,7 +10,8 @@ Delegate tasks and set timeline for project.
 
 Establish project benchmarks
 
-.....
+.......
+
 
 ## Done
 
