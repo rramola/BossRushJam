@@ -1,0 +1,696 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: 
+  m_EditorClassIdentifier: com.spoiledcat.git.ui:Unity.VersionControl.Git:GitLogCache
+  cacheType: 3
+  lastUpdatedAtString: 2024-01-08T18:35:54.186-06:00
+  initializedAtString: 2024-01-08T18:24:22.656-06:00
+  log:
+  - commitID: e0207c3d27bb1fdd723a58b5701f94ec50407143
+    mergeA: 
+    mergeB: 
+    authorName: rramola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: rramola
+    summary: Game
+    description: Initialized game
+    timeString: 2024-01-08T15:32:51.000-06:00
+    commitTimeString: 2024-01-08T15:32:51.000-06:00
+    changes:
+    - path: Graphics\forest_battleground\AI\game_background_1.ai
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\AI\game_background_1.ai
+      projectPath: ..\Graphics\forest_battleground\AI\game_background_1.ai
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\AI\game_background_2.ai
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\AI\game_background_2.ai
+      projectPath: ..\Graphics\forest_battleground\AI\game_background_2.ai
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\AI\game_background_3.ai
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\AI\game_background_3.ai
+      projectPath: ..\Graphics\forest_battleground\AI\game_background_3.ai
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\AI\game_background_4.ai
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\AI\game_background_4.ai
+      projectPath: ..\Graphics\forest_battleground\AI\game_background_4.ai
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\EPS\game_background_1.eps
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\EPS\game_background_1.eps
+      projectPath: ..\Graphics\forest_battleground\EPS\game_background_1.eps
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\EPS\game_background_2.eps
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\EPS\game_background_2.eps
+      projectPath: ..\Graphics\forest_battleground\EPS\game_background_2.eps
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\EPS\game_background_3.eps
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\EPS\game_background_3.eps
+      projectPath: ..\Graphics\forest_battleground\EPS\game_background_3.eps
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\EPS\game_background_4.eps
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\EPS\game_background_4.eps
+      projectPath: ..\Graphics\forest_battleground\EPS\game_background_4.eps
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\game_background_1.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\game_background_1.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\game_background_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\layers\back_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\layers\back_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\layers\back_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\layers\back_land.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\layers\back_land.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\layers\back_land.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\layers\battleground.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\layers\battleground.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\layers\battleground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\layers\front_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\layers\front_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\layers\front_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_1\layers\ground_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_1\layers\ground_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_1\layers\ground_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\game_background_2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\game_background_2.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\game_background_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\layers\back_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\layers\back_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\layers\back_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\layers\back_land.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\layers\back_land.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\layers\back_land.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\layers\battleground.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\layers\battleground.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\layers\battleground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\layers\front_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\layers\front_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\layers\front_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_2\layers\ground_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_2\layers\ground_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_2\layers\ground_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\game_background_3.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\game_background_3.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\game_background_3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\layers\back_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\layers\back_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\layers\back_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\layers\back_land.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\layers\back_land.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\layers\back_land.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\layers\battleground.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\layers\battleground.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\layers\battleground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\layers\front_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\layers\front_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\layers\front_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_3\layers\ground_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_3\layers\ground_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_3\layers\ground_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\game_background_4.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\game_background_4.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\game_background_4.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\layers\back_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\layers\back_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\layers\back_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\layers\back_land.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\layers\back_land.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\layers\back_land.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\layers\battleground.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\layers\battleground.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\layers\battleground.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\layers\front_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\layers\front_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\layers\front_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\PNG\game_background_4\layers\ground_decor.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\PNG\game_background_4\layers\ground_decor.png
+      projectPath: ..\Graphics\forest_battleground\PNG\game_background_4\layers\ground_decor.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\TXT\license.txt
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\TXT\license.txt
+      projectPath: ..\Graphics\forest_battleground\TXT\license.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\forest_battleground\TXT\readme.txt
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\forest_battleground\TXT\readme.txt
+      projectPath: ..\Graphics\forest_battleground\TXT\readme.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\COUPON.pdf
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\COUPON.pdf
+      projectPath: ..\Graphics\orc_sprites\COUPON.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\COUPON.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\COUPON.png
+      projectPath: ..\Graphics\orc_sprites\COUPON.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Font.txt
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Font.txt
+      projectPath: ..\Graphics\orc_sprites\Font.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Licens.txt
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Licens.txt
+      projectPath: ..\Graphics\orc_sprites\Licens.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Attack_1.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Attack_1.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Attack_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Attack_2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Attack_2.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Attack_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Attack_3.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Attack_3.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Attack_3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Dead.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Dead.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Dead.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Hurt.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Hurt.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Hurt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Idle.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Idle.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Idle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Jump.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Jump.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Jump.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Run+Attack.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Run+Attack.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Run+Attack.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Run.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Run.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Run.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Berserk\Walk.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Berserk\Walk.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Berserk\Walk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Attack_1.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Attack_1.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Attack_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Attack_2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Attack_2.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Attack_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Dead.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Dead.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Dead.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Hurt.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Hurt.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Hurt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Idle.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Idle.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Idle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Jump.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Jump.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Jump.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Magic_1.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Magic_1.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Magic_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Magic_2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Magic_2.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Magic_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Run.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Run.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Run.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Shaman\Walk.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Shaman\Walk.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Shaman\Walk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Attack_1.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Attack_1.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Attack_1.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Attack_2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Attack_2.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Attack_2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Attack_3.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Attack_3.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Attack_3.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Hurt.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Hurt.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Hurt.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Idle.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Idle.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Idle.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Jump.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Jump.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Jump.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Run+Attack.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Run+Attack.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Run+Attack.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Run.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Run.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Run.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\Orc_Warrior\Walk.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\Orc_Warrior\Walk.png
+      projectPath: ..\Graphics\orc_sprites\Orc_Warrior\Walk.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\PSD\Orc_Berserc_Spritelist.psd
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\PSD\Orc_Berserc_Spritelist.psd
+      projectPath: ..\Graphics\orc_sprites\PSD\Orc_Berserc_Spritelist.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\PSD\Orc_Shaman_Spritelist.psd
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\PSD\Orc_Shaman_Spritelist.psd
+      projectPath: ..\Graphics\orc_sprites\PSD\Orc_Shaman_Spritelist.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\orc_sprites\PSD\Orc_Warrior_Spritelist.psd
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\orc_sprites\PSD\Orc_Warrior_Spritelist.psd
+      projectPath: ..\Graphics\orc_sprites\PSD\Orc_Warrior_Spritelist.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\Horizontal Battle Backgrounds 8.psd
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\Horizontal
+        Battle Backgrounds 8.psd
+      projectPath: ..\Graphics\rpg_battleground\Horizontal Battle Backgrounds 8.psd
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\1\bamboo bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\1\bamboo
+        bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\1\bamboo bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\1\bamboo.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\1\bamboo.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\1\bamboo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\1\bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\1\bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\1\bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\1\sea.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\1\sea.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\1\sea.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\2\bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\2\bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\2\bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\2\forest bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\2\forest
+        bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\2\forest bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\2\forest.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\2\forest.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\2\forest.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\2\grass.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\2\grass.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\2\grass.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\3\bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\3\bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\3\bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\3\clouds 2.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\3\clouds
+        2.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\3\clouds 2.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\3\clouds.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\3\clouds.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\3\clouds.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\3\sky bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\3\sky
+        bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\3\sky bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\3\tower.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\3\tower.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\3\tower.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\4\background.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\4\background.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\4\background.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\4\bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\4\bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\4\bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\4\castle bridge.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\4\castle
+        bridge.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\4\castle bridge.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\PNG\4\tower.png
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\PNG\4\tower.png
+      projectPath: ..\Graphics\rpg_battleground\PNG\4\tower.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Graphics\rpg_battleground\license.txt
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Graphics\rpg_battleground\license.txt
+      projectPath: ..\Graphics\rpg_battleground\license.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 9d369fe001c92312e6ce53cb90f7e7d1096b5744
+    mergeA: 
+    mergeB: 
+    authorName: rramola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: rramola
+    summary: Updated with project creation timeline
+    description: 
+    timeString: 2024-01-08T12:43:51.000-06:00
+    commitTimeString: 2024-01-08T12:43:51.000-06:00
+    changes:
+    - path: To-Do.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\To-Do.md
+      projectPath: ..\To-Do.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3d79145b1c27b5ca7d8971fe9891b2cac5afbc9d
+    mergeA: 
+    mergeB: 
+    authorName: rramola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: rramola
+    summary: Update
+    description: 
+    timeString: 2024-01-08T12:39:23.000-06:00
+    commitTimeString: 2024-01-08T12:39:23.000-06:00
+    changes:
+    - path: To-Do.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\To-Do.md
+      projectPath: ..\To-Do.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: a2bea4cd1aa6558e8740114506ec246b8123be18
+    mergeA: 
+    mergeB: 
+    authorName: RRamola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: RRamola
+    summary: Changed File Type    To-Do -> To-Do.md
+    description: 
+    timeString: 2024-01-07T17:53:00.000-06:00
+    commitTimeString: 2024-01-07T17:53:00.000-06:00
+    changes:
+    - path: To-Do.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\To-Do.md
+      projectPath: ..\To-Do.md
+      originalPath: To-Do
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: 5c17c948cd0b518cf772efe26784f481e651e126
+    mergeA: 
+    mergeB: 
+    authorName: RRamola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: RRamola
+    summary: 'Created new file:'
+    description: '    To-Do'
+    timeString: 2024-01-07T17:51:24.000-06:00
+    commitTimeString: 2024-01-07T17:51:24.000-06:00
+    changes:
+    - path: To-Do
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\To-Do
+      projectPath: ..\To-Do
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 38f6e887d76af25cb2fdf30fa519fabd0b8a336f
+    mergeA: 
+    mergeB: 
+    authorName: RRamola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: RRamola
+    summary: 'Changes to be committed:'
+    description: "\tmodified:   Readme.md"
+    timeString: 2024-01-07T17:12:05.000-06:00
+    commitTimeString: 2024-01-07T17:12:05.000-06:00
+    changes:
+    - path: Readme.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Readme.md
+      projectPath: ..\Readme.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 436550257656489968ff9f5bcf1c5bddb223d95a
+    mergeA: 
+    mergeB: 
+    authorName: RRamola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: RRamola
+    summary: 'modified:   Readme.md'
+    description: 
+    timeString: 2024-01-07T17:10:38.000-06:00
+    commitTimeString: 2024-01-07T17:10:38.000-06:00
+    changes:
+    - path: Readme.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Readme.md
+      projectPath: ..\Readme.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: fc2e8735ac0678c92940b8b446cd0381c0ebc92f
+    mergeA: 
+    mergeB: 
+    authorName: RRamola
+    authorEmail: ramolaryan@gmail.com
+    commitEmail: ramolaryan@gmail.com
+    commitName: RRamola
+    summary: Initial commit
+    description: '    new file:   Readme.md'
+    timeString: 2024-01-07T17:04:28.000-06:00
+    commitTimeString: 2024-01-07T17:04:28.000-06:00
+    changes:
+    - path: Readme.md
+      fullPath: C:\Users\ramol\Desktop\Projects\BossRushJam\Readme.md
+      projectPath: ..\Readme.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
